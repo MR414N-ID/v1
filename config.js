@@ -13,7 +13,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.linkGC = ['hSUDAH GA ADA GRUB ', 'hSUDAH GA ADA GRUB ', SUDAH GA ADA GRUB '] // ganti jadi group lu
+global.linkGC = ['hSUDAH GA ADA GRUB ', 'hSUDAH GA ADA GRUB ', 'SUDAH GA ADA GRUB '] // ganti jadi group lu
 global.owner = ['6282271639290', '6282271639290', '6282271639290'] // Masukan nomot kalian
 global.mods = ['6282271639290', '6282271639290'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
